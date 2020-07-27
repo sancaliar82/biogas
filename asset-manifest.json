@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/biogas/static/css/main.9199f216.chunk.css",
-    "main.js": "/biogas/static/js/main.c6571990.chunk.js",
-    "main.js.map": "/biogas/static/js/main.c6571990.chunk.js.map",
+    "main.js": "/biogas/static/js/main.70df6825.chunk.js",
+    "main.js.map": "/biogas/static/js/main.70df6825.chunk.js.map",
     "runtime-main.js": "/biogas/static/js/runtime-main.6e17912f.js",
     "runtime-main.js.map": "/biogas/static/js/runtime-main.6e17912f.js.map",
     "static/css/2.4ed84a58.chunk.css": "/biogas/static/css/2.4ed84a58.chunk.css",
     "static/js/2.d83707b0.chunk.js": "/biogas/static/js/2.d83707b0.chunk.js",
     "static/js/2.d83707b0.chunk.js.map": "/biogas/static/js/2.d83707b0.chunk.js.map",
     "index.html": "/biogas/index.html",
-    "precache-manifest.734ae85a6133b668605355fb0733c8e7.js": "/biogas/precache-manifest.734ae85a6133b668605355fb0733c8e7.js",
+    "precache-manifest.b7dc83da3085df0b260f67f190603d5f.js": "/biogas/precache-manifest.b7dc83da3085df0b260f67f190603d5f.js",
     "service-worker.js": "/biogas/service-worker.js",
     "static/css/2.4ed84a58.chunk.css.map": "/biogas/static/css/2.4ed84a58.chunk.css.map",
     "static/css/main.9199f216.chunk.css.map": "/biogas/static/css/main.9199f216.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.4ed84a58.chunk.css",
     "static/js/2.d83707b0.chunk.js",
     "static/css/main.9199f216.chunk.css",
-    "static/js/main.c6571990.chunk.js"
+    "static/js/main.70df6825.chunk.js"
   ]
 }
