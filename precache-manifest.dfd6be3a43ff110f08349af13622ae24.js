@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d70ca1b6ca2718877c56b21b0594575",
+    "revision": "47c00124927895d8699fb9b7ab42c7c5",
     "url": "/biogas/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/css/2.4ed84a58.chunk.css"
   },
   {
-    "revision": "935fe83bd44c96e028f7",
-    "url": "/biogas/static/css/main.345748e3.chunk.css"
+    "revision": "dc7eb70d44514f595e5d",
+    "url": "/biogas/static/css/main.e0e74fb4.chunk.css"
   },
   {
     "revision": "edfb902259bb8c319f11",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/js/2.0fc17ad5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "935fe83bd44c96e028f7",
-    "url": "/biogas/static/js/main.ca4dc4f1.chunk.js"
+    "revision": "dc7eb70d44514f595e5d",
+    "url": "/biogas/static/js/main.76db4869.chunk.js"
   },
   {
     "revision": "28d3cd46585456c6b940",
