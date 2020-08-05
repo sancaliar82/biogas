@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/biogas/precache-manifest.b7286da94dff697c4ac3bfde0d8deaf9.js"
+  "/biogas/precache-manifest.2bb5750abb0b71d5e6127b5f029b9ad9.js"
 );
 
 self.addEventListener('message', (event) => {
