@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c3948eb5c1c9cc7d5e9be5770969a8a",
+    "revision": "2abc7a7a84ec4147ea73965e84d0c4c9",
     "url": "/biogas/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/css/2.4ed84a58.chunk.css"
   },
   {
-    "revision": "8edebb4e8b70d30e8ccf",
-    "url": "/biogas/static/css/main.e0e74fb4.chunk.css"
+    "revision": "82b6cece04287fb33c84",
+    "url": "/biogas/static/css/main.a168b504.chunk.css"
   },
   {
     "revision": "7af0199971aeaaa65f04",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/js/2.b2f7e240.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8edebb4e8b70d30e8ccf",
-    "url": "/biogas/static/js/main.f075544d.chunk.js"
+    "revision": "82b6cece04287fb33c84",
+    "url": "/biogas/static/js/main.9cc4d3c7.chunk.js"
   },
   {
     "revision": "28d3cd46585456c6b940",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/media/fa-solid-900.f3a7d3b5.woff"
   },
   {
-    "revision": "fde6590ec3b1202cd22b1edb5a3f38b0",
-    "url": "/biogas/static/media/logo-ESDM-Jabar.fde6590e.png"
+    "revision": "248fa5fc1bd50abf8c68ebaba5192aab",
+    "url": "/biogas/static/media/logo-Jabar.248fa5fc.png"
   },
   {
     "revision": "0d2a240a8fc04c220e6f50f1f22de5f4",
