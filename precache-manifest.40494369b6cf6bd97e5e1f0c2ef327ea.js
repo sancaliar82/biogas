@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83166141e3e611031e7775b1ec8f028e",
+    "revision": "dc87e060483a8c701a8d9fa66becc1d1",
     "url": "/biogas/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/css/2.4ed84a58.chunk.css"
   },
   {
-    "revision": "2da2a62d88ec321aff05",
+    "revision": "1a5be07e9b7a095a0032",
     "url": "/biogas/static/css/main.a168b504.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biogas/static/js/2.2b3efc4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2da2a62d88ec321aff05",
-    "url": "/biogas/static/js/main.a0326b40.chunk.js"
+    "revision": "1a5be07e9b7a095a0032",
+    "url": "/biogas/static/js/main.3b499e4b.chunk.js"
   },
   {
     "revision": "28d3cd46585456c6b940",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f3a7d3b5880544a91e9a7e6f8f35d4d2",
     "url": "/biogas/static/media/fa-solid-900.f3a7d3b5.woff"
+  },
+  {
+    "revision": "90549fdf15bcbf768550fcbde3c43a2a",
+    "url": "/biogas/static/media/home-illust.90549fdf.svg"
   },
   {
     "revision": "248fa5fc1bd50abf8c68ebaba5192aab",
