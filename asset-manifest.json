@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/biogas/static/css/main.eb370362.chunk.css",
-    "main.js": "/biogas/static/js/main.6e3387ce.chunk.js",
-    "main.js.map": "/biogas/static/js/main.6e3387ce.chunk.js.map",
+    "main.css": "/biogas/static/css/main.275321ab.chunk.css",
+    "main.js": "/biogas/static/js/main.0388386d.chunk.js",
+    "main.js.map": "/biogas/static/js/main.0388386d.chunk.js.map",
     "runtime-main.js": "/biogas/static/js/runtime-main.6e17912f.js",
     "runtime-main.js.map": "/biogas/static/js/runtime-main.6e17912f.js.map",
     "static/css/2.4ed84a58.chunk.css": "/biogas/static/css/2.4ed84a58.chunk.css",
-    "static/js/2.2b3efc4e.chunk.js": "/biogas/static/js/2.2b3efc4e.chunk.js",
-    "static/js/2.2b3efc4e.chunk.js.map": "/biogas/static/js/2.2b3efc4e.chunk.js.map",
+    "static/js/2.d77bfc8d.chunk.js": "/biogas/static/js/2.d77bfc8d.chunk.js",
+    "static/js/2.d77bfc8d.chunk.js.map": "/biogas/static/js/2.d77bfc8d.chunk.js.map",
     "index.html": "/biogas/index.html",
-    "precache-manifest.66046189460a8f05f9256888e461beda.js": "/biogas/precache-manifest.66046189460a8f05f9256888e461beda.js",
+    "precache-manifest.c67a2cf666544b8e97f9e7e3216adfa2.js": "/biogas/precache-manifest.c67a2cf666544b8e97f9e7e3216adfa2.js",
     "service-worker.js": "/biogas/service-worker.js",
     "static/css/2.4ed84a58.chunk.css.map": "/biogas/static/css/2.4ed84a58.chunk.css.map",
-    "static/css/main.eb370362.chunk.css.map": "/biogas/static/css/main.eb370362.chunk.css.map",
-    "static/js/2.2b3efc4e.chunk.js.LICENSE.txt": "/biogas/static/js/2.2b3efc4e.chunk.js.LICENSE.txt",
+    "static/css/main.275321ab.chunk.css.map": "/biogas/static/css/main.275321ab.chunk.css.map",
+    "static/js/2.d77bfc8d.chunk.js.LICENSE.txt": "/biogas/static/js/2.d77bfc8d.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/biogas/static/media/fa-solid-900.f3a7d3b5.woff",
     "static/media/home-illust.svg": "/biogas/static/media/home-illust.90549fdf.svg",
     "static/media/logo-Jabar.png": "/biogas/static/media/logo-Jabar.248fa5fc.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e17912f.js",
     "static/css/2.4ed84a58.chunk.css",
-    "static/js/2.2b3efc4e.chunk.js",
-    "static/css/main.eb370362.chunk.css",
-    "static/js/main.6e3387ce.chunk.js"
+    "static/js/2.d77bfc8d.chunk.js",
+    "static/css/main.275321ab.chunk.css",
+    "static/js/main.0388386d.chunk.js"
   ]
 }
