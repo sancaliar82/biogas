@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/biogas/static/css/main.9d1825c3.chunk.css",
-    "main.js": "/biogas/static/js/main.b331040e.chunk.js",
-    "main.js.map": "/biogas/static/js/main.b331040e.chunk.js.map",
-    "runtime-main.js": "/biogas/static/js/runtime-main.6e17912f.js",
-    "runtime-main.js.map": "/biogas/static/js/runtime-main.6e17912f.js.map",
+    "main.js": "/biogas/static/js/main.d11ace36.chunk.js",
+    "main.js.map": "/biogas/static/js/main.d11ace36.chunk.js.map",
+    "runtime-main.js": "/biogas/static/js/runtime-main.44ec847d.js",
+    "runtime-main.js.map": "/biogas/static/js/runtime-main.44ec847d.js.map",
     "static/css/2.4ed84a58.chunk.css": "/biogas/static/css/2.4ed84a58.chunk.css",
-    "static/js/2.cf304a58.chunk.js": "/biogas/static/js/2.cf304a58.chunk.js",
-    "static/js/2.cf304a58.chunk.js.map": "/biogas/static/js/2.cf304a58.chunk.js.map",
+    "static/js/2.b246b67f.chunk.js": "/biogas/static/js/2.b246b67f.chunk.js",
+    "static/js/2.b246b67f.chunk.js.map": "/biogas/static/js/2.b246b67f.chunk.js.map",
     "index.html": "/biogas/index.html",
-    "precache-manifest.1b7c5b0056db68e58befc817a8c6a614.js": "/biogas/precache-manifest.1b7c5b0056db68e58befc817a8c6a614.js",
+    "precache-manifest.b5bad940cb75a353e4501061f2b18616.js": "/biogas/precache-manifest.b5bad940cb75a353e4501061f2b18616.js",
     "service-worker.js": "/biogas/service-worker.js",
     "static/css/2.4ed84a58.chunk.css.map": "/biogas/static/css/2.4ed84a58.chunk.css.map",
     "static/css/main.9d1825c3.chunk.css.map": "/biogas/static/css/main.9d1825c3.chunk.css.map",
-    "static/js/2.cf304a58.chunk.js.LICENSE.txt": "/biogas/static/js/2.cf304a58.chunk.js.LICENSE.txt",
+    "static/js/2.b246b67f.chunk.js.LICENSE.txt": "/biogas/static/js/2.b246b67f.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/biogas/static/media/fa-solid-900.f3a7d3b5.woff",
     "static/media/home-illust.svg": "/biogas/static/media/home-illust.90549fdf.svg",
     "static/media/logo-Jabar.png": "/biogas/static/media/logo-Jabar.248fa5fc.png",
@@ -21,10 +21,10 @@
     "static/media/logo-LPiK-ITB.png": "/biogas/static/media/logo-LPiK-ITB.a9ccdc66.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e17912f.js",
+    "static/js/runtime-main.44ec847d.js",
     "static/css/2.4ed84a58.chunk.css",
-    "static/js/2.cf304a58.chunk.js",
+    "static/js/2.b246b67f.chunk.js",
     "static/css/main.9d1825c3.chunk.css",
-    "static/js/main.b331040e.chunk.js"
+    "static/js/main.d11ace36.chunk.js"
   ]
 }
